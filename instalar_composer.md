@@ -2,7 +2,9 @@
 
 Esta guía explica cómo instalar **Composer** de forma global en Ubuntu utilizando el instalador oficial.
 
-> **Fuente oficial:** :contentReference[oaicite:0]{index=0}
+> **Fuente oficial:** 
+>
+>https://getcomposer.org/download/
 
 La documentación oficial incluye siempre la versión más reciente de Composer, el instalador actualizado y las instrucciones recomendadas por el proyecto. Se recomienda consultar esta página antes de realizar la instalación, ya que el hash de verificación y la versión disponible pueden cambiar con el tiempo. :contentReference[oaicite:1]{index=1}
 
