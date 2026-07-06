@@ -6,6 +6,10 @@ Instalar **MySQL Workbench** (interfaz gráfica oficial de MySQL) en Ubuntu 22.0
 
 > **Importante:** Esta guía asume que **MySQL Server ya está instalado**.
 
+Descargar el paquete correspondiente a tu versión de Ubuntu desde:
+
+https://dev.mysql.com/downloads/workbench/
+
 ---
 
 # 1. Verificar la versión de Ubuntu
